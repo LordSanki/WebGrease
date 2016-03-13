@@ -3,7 +3,7 @@
 // @namespace   https://github.com/LordSanki/WebGrease/
 // @description Block trash on daytse
 // @include     http://dayt.se/*
-// @version     1.1
+// @version     1.2
 // @grant       none
 // @noframes
 // @license https://creativecommons.org/licenses/by-sa/4.0/

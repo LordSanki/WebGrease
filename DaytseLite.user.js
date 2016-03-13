@@ -10,7 +10,7 @@
 // @updateURL https://github.com/LordSanki/WebGrease/raw/master/DaytseLite.user.js
 // @downloadURL https://github.com/LordSanki/WebGrease/raw/master/DaytseLite.user.js
 // @homepage https://github.com/LordSanki/WebGrease
-// @run-at document-start
+// @run-at document-end
 // ==/UserScript==
 
 window.onload = function(){

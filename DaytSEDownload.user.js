@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        DaytSEDownload | Sanki
-// @namespace   http://dayt.se/
+// @namespace   https://github.com/LordSanki/WebGrease/
 // @description Creates a download button on datse webpage
 // @include     http://dayt.se/forum/showthread.php*
-// @version     2
+// @version     2.1
 // @grant       none
 // @noframes
 // @encoding utf-8

@@ -3,9 +3,14 @@
 // @namespace   Sanki
 // @description Block trash on daytse
 // @include     http://dayt.se/*
-// @version     1
+// @version     1.1
 // @grant       none
 // @noframes
+// @license https://creativecommons.org/licenses/by-sa/4.0/
+// @updateURL https://github.com/LordSanki/WebGrease/raw/master/DaytseLite.user.js
+// @downloadURL https://github.com/LordSanki/WebGrease/raw/master/DaytseLite.user.js
+// @homepage https://github.com/LordSanki/WebGrease
+// @run-at document-start
 // ==/UserScript==
 
 window.onload = function(){

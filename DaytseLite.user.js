@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        DaytseLite
-// @namespace   Sanki
+// @namespace   https://github.com/LordSanki/WebGrease/
 // @description Block trash on daytse
 // @include     http://dayt.se/*
 // @version     1.1
